@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-09T13:08:02.450Z",
+  "updated_at": "2026-05-15T19:16:25.105Z",
   "source_org_count": 184,
-  "total_issues": 50,
+  "total_issues": 78,
   "issues": [
     {
       "org": "AFLplusplus",
@@ -17,7 +17,7 @@
       ],
       "comments": 6,
       "created_at": "2022-10-06T02:10:29Z",
-      "updated_at": "2026-02-19T11:26:32Z",
+      "updated_at": "2026-05-13T14:12:12Z",
       "language": null
     },
     {
@@ -73,19 +73,34 @@
       "org": "AnkiDroid",
       "github": "ankidroid/Anki-Android",
       "logo": "https://avatars.githubusercontent.com/ankidroid",
-      "title": "Update to net.mikehardy:google-analytics-java:2.0.11 (needs minSdkVersion >= 24)",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/7056",
+      "title": "Translation sync: improve result when no Pull Request is necessary",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/20853",
       "repo": "ankidroid/Anki-Android",
       "labels": [
-        "Priority-Low",
+        "Help Wanted",
         "Good First Issue",
-        "Keep Open",
-        "Dev",
-        "Analytics"
+        "Dev"
       ],
-      "comments": 10,
-      "created_at": "2020-09-10T15:26:28Z",
-      "updated_at": "2026-04-30T14:58:24Z",
+      "comments": 4,
+      "created_at": "2026-04-25T10:30:33Z",
+      "updated_at": "2026-04-29T10:33:27Z",
+      "language": null
+    },
+    {
+      "org": "ArduPilot",
+      "github": "ArduPilot/ardupilot",
+      "logo": "https://avatars.githubusercontent.com/ArduPilot",
+      "title": "Copter: easier test of benchtest the parachute",
+      "url": "https://github.com/ArduPilot/ardupilot/issues/2339",
+      "repo": "ArduPilot/ardupilot",
+      "labels": [
+        "Copter",
+        "Safety",
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2015-05-28T09:00:55Z",
+      "updated_at": "2026-05-15T04:45:30Z",
       "language": null
     },
     {
@@ -116,22 +131,6 @@
       "comments": 2,
       "created_at": "2020-05-24T02:28:05Z",
       "updated_at": "2026-04-01T15:45:17Z",
-      "language": null
-    },
-    {
-      "org": "ArduPilot",
-      "github": "ArduPilot/ardupilot",
-      "logo": "https://avatars.githubusercontent.com/ArduPilot",
-      "title": "Remove mavlink enum dependencies on non related library",
-      "url": "https://github.com/ArduPilot/ardupilot/issues/23320",
-      "repo": "ArduPilot/ardupilot",
-      "labels": [
-        "Enhancement",
-        "good first issue"
-      ],
-      "comments": 14,
-      "created_at": "2023-03-24T10:48:12Z",
-      "updated_at": "2026-03-29T12:50:07Z",
       "language": null
     },
     {
@@ -185,38 +184,19 @@
       "language": null
     },
     {
-      "org": "C2SI",
-      "github": "c2siorg",
-      "logo": "https://avatars.githubusercontent.com/c2siorg",
-      "title": "Missing Alt Text on Images Causing Accessibility Issues",
-      "url": "https://github.com/c2siorg/Codelabz/issues/310",
-      "repo": "c2siorg/Codelabz",
-      "labels": [
-        "bug",
-        "good first issue",
-        "UI/UX",
-        "stale",
-        "feature"
-      ],
-      "comments": 6,
-      "created_at": "2026-03-09T18:50:47Z",
-      "updated_at": "2026-04-27T04:51:54Z",
-      "language": null
-    },
-    {
       "org": "cBioPortal for Cancer Genomics",
       "github": "cBioPortal/cbioportal",
       "logo": "https://avatars.githubusercontent.com/cBioPortal",
-      "title": "on study view store opt in to store chart settings",
-      "url": "https://github.com/cBioPortal/cbioportal/issues/10738",
+      "title": "Study View genes input allows OQL, but not OQL trackgroups",
+      "url": "https://github.com/cBioPortal/cbioportal/issues/10460",
       "repo": "cBioPortal/cbioportal",
       "labels": [
-        "enhancement",
+        "bug",
         "good first issue"
       ],
-      "comments": 5,
-      "created_at": "2024-04-05T15:42:14Z",
-      "updated_at": "2026-04-14T19:07:07Z",
+      "comments": 3,
+      "created_at": "2023-11-09T10:12:34Z",
+      "updated_at": "2026-05-11T19:47:49Z",
       "language": null
     },
     {
@@ -255,6 +235,23 @@
       "org": "checkstyle",
       "github": "checkstyle/checkstyle",
       "logo": "https://avatars.githubusercontent.com/checkstyle",
+      "title": "Move violation comments above of annotated methods",
+      "url": "https://github.com/checkstyle/checkstyle/issues/19803",
+      "repo": "checkstyle/checkstyle",
+      "labels": [
+        "approved",
+        "miscellaneous",
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2026-05-13T10:53:23Z",
+      "updated_at": "2026-05-15T13:39:27Z",
+      "language": null
+    },
+    {
+      "org": "checkstyle",
+      "github": "checkstyle/checkstyle",
+      "logo": "https://avatars.githubusercontent.com/checkstyle",
       "title": "Move violation comments out of Javadoc for all input files",
       "url": "https://github.com/checkstyle/checkstyle/issues/19764",
       "repo": "checkstyle/checkstyle",
@@ -263,9 +260,9 @@
         "miscellaneous",
         "good first issue"
       ],
-      "comments": 3,
+      "comments": 5,
       "created_at": "2026-04-29T02:48:15Z",
-      "updated_at": "2026-05-05T19:45:08Z",
+      "updated_at": "2026-05-12T13:28:06Z",
       "language": null
     },
     {
@@ -289,6 +286,39 @@
       "org": "CircuitVerse.org",
       "github": "CircuitVerse/CircuitVerse",
       "logo": "https://avatars.githubusercontent.com/CircuitVerse",
+      "title": "The Welcome Email has broken UI elements",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/5984",
+      "repo": "CircuitVerse/CircuitVerse",
+      "labels": [
+        "good first issue",
+        "🐞 bug",
+        "ux"
+      ],
+      "comments": 25,
+      "created_at": "2025-08-19T09:14:54Z",
+      "updated_at": "2026-05-15T06:51:04Z",
+      "language": null
+    },
+    {
+      "org": "CircuitVerse.org",
+      "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
+      "title": "Notifications not properly visible on clicking notfication bell icon on Home page for arabic language",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/6003",
+      "repo": "CircuitVerse/CircuitVerse",
+      "labels": [
+        "good first issue",
+        "🐞 bug"
+      ],
+      "comments": 24,
+      "created_at": "2025-08-23T15:43:28Z",
+      "updated_at": "2026-05-14T14:38:38Z",
+      "language": null
+    },
+    {
+      "org": "CircuitVerse.org",
+      "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
       "title": "Text is not completely highlighted on hover",
       "url": "https://github.com/CircuitVerse/CircuitVerse/issues/2919",
       "repo": "CircuitVerse/CircuitVerse",
@@ -299,39 +329,6 @@
       "comments": 41,
       "created_at": "2022-02-10T17:03:50Z",
       "updated_at": "2026-05-09T05:00:54Z",
-      "language": null
-    },
-    {
-      "org": "CircuitVerse.org",
-      "github": "CircuitVerse/CircuitVerse",
-      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
-      "title": "Missing translation for \"Member since\" for arabic language on User dashboard",
-      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/6002",
-      "repo": "CircuitVerse/CircuitVerse",
-      "labels": [
-        "good first issue",
-        "🐞 bug"
-      ],
-      "comments": 20,
-      "created_at": "2025-08-23T15:39:36Z",
-      "updated_at": "2026-05-05T18:20:02Z",
-      "language": null
-    },
-    {
-      "org": "CircuitVerse.org",
-      "github": "CircuitVerse/CircuitVerse",
-      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
-      "title": "[fix] : localization in recent circuits section ",
-      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/3552",
-      "repo": "CircuitVerse/CircuitVerse",
-      "labels": [
-        "good first issue",
-        "on hold",
-        "🐞 bug"
-      ],
-      "comments": 18,
-      "created_at": "2023-02-10T04:46:03Z",
-      "updated_at": "2026-04-15T06:23:53Z",
       "language": null
     },
     {
@@ -370,57 +367,307 @@
       "language": null
     },
     {
-      "org": "OpenAstronomy",
-      "github": "sunpy/sunpy",
-      "logo": "https://avatars.githubusercontent.com/sunpy",
-      "title": "Better explanation of the different clients supported by sunpy",
-      "url": "https://github.com/sunpy/sunpy/issues/3800",
-      "repo": "sunpy/sunpy",
+      "org": "dora-rs",
+      "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
+      "title": "Thread-safety of C node API",
+      "url": "https://github.com/dora-rs/dora/issues/540",
+      "repo": "dora-rs/dora",
       "labels": [
-        "Package Novice",
-        "Priority Low",
-        "Effort Medium",
-        "Good First Issue"
+        "documentation",
+        "good first issue",
+        "help wanted",
+        "rust"
+      ],
+      "comments": 4,
+      "created_at": "2024-06-07T11:00:01Z",
+      "updated_at": "2026-05-13T23:16:04Z",
+      "language": null
+    },
+    {
+      "org": "dora-rs",
+      "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
+      "title": "Improve Users-Getting Started on dora-rs.ai",
+      "url": "https://github.com/dora-rs/dora/issues/885",
+      "repo": "dora-rs/dora",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 21,
+      "created_at": "2025-03-17T16:53:05Z",
+      "updated_at": "2026-04-06T00:48:51Z",
+      "language": null
+    },
+    {
+      "org": "dora-rs",
+      "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
+      "title": "Use pyo3 experimental-inspect instead of `generate_stubs.py`",
+      "url": "https://github.com/dora-rs/dora/issues/829",
+      "repo": "dora-rs/dora",
+      "labels": [
+        "good first issue",
+        "python"
+      ],
+      "comments": 13,
+      "created_at": "2025-03-09T14:39:01Z",
+      "updated_at": "2026-03-13T17:00:41Z",
+      "language": null
+    },
+    {
+      "org": "Eclipse Foundation",
+      "github": "eclipse-platform/eclipse.platform",
+      "logo": "https://avatars.githubusercontent.com/eclipse-platform",
+      "title": "Reactivate tests: disabled tests collection",
+      "url": "https://github.com/eclipse-platform/eclipse.platform/issues/525",
+      "repo": "eclipse-platform/eclipse.platform",
+      "labels": [
+        "good first issue",
+        "test"
+      ],
+      "comments": 2,
+      "created_at": "2023-06-28T15:52:02Z",
+      "updated_at": "2026-04-01T13:17:11Z",
+      "language": null
+    },
+    {
+      "org": "Eclipse Foundation",
+      "github": "eclipse-platform/eclipse.platform",
+      "logo": "https://avatars.githubusercontent.com/eclipse-platform",
+      "title": "If importing a project failed because its exist, ask the user to open/jump to the project",
+      "url": "https://github.com/eclipse-platform/eclipse.platform/issues/1978",
+      "repo": "eclipse-platform/eclipse.platform",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 5,
+      "created_at": "2025-06-21T06:44:52Z",
+      "updated_at": "2025-06-27T11:34:15Z",
+      "language": null
+    },
+    {
+      "org": "FOSSology",
+      "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
+      "title": "Bug: Unable to clear upload description and comment",
+      "url": "https://github.com/fossology/fossology/issues/3002",
+      "repo": "fossology/fossology",
+      "labels": [
+        "bug",
+        "good first issue"
+      ],
+      "comments": 13,
+      "created_at": "2025-03-13T16:48:37Z",
+      "updated_at": "2026-03-30T17:59:51Z",
+      "language": null
+    },
+    {
+      "org": "FOSSology",
+      "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
+      "title": "REST API: Users creation/management",
+      "url": "https://github.com/fossology/fossology/issues/1578",
+      "repo": "fossology/fossology",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 9,
+      "created_at": "2020-01-20T13:46:02Z",
+      "updated_at": "2026-03-30T15:39:34Z",
+      "language": null
+    },
+    {
+      "org": "FOSSology",
+      "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
+      "title": "Add copyright export to fo_nomos_license_list",
+      "url": "https://github.com/fossology/fossology/issues/1715",
+      "repo": "fossology/fossology",
+      "labels": [
+        "enhancement",
+        "good first issue"
       ],
       "comments": 8,
-      "created_at": "2020-02-13T19:16:11Z",
-      "updated_at": "2026-03-26T21:21:48Z",
+      "created_at": "2020-05-08T13:04:11Z",
+      "updated_at": "2026-03-26T14:21:23Z",
       "language": null
     },
     {
-      "org": "OpenAstronomy",
-      "github": "sunpy/sunpy",
-      "logo": "https://avatars.githubusercontent.com/sunpy",
-      "title": "Standardise our docstring convention on Time inputs",
-      "url": "https://github.com/sunpy/sunpy/issues/2784",
-      "repo": "sunpy/sunpy",
+      "org": "Fortran-lang",
+      "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
+      "title": "There may be a typo in stdlib_string_type.fypp",
+      "url": "https://github.com/fortran-lang/stdlib/issues/1028",
+      "repo": "fortran-lang/stdlib",
       "labels": [
-        "Package Novice",
-        "Priority Low",
-        "Effort Medium",
-        "Documentation",
-        "Good First Issue"
+        "enhancement",
+        "good first issue",
+        "easy"
       ],
-      "comments": 15,
-      "created_at": "2018-10-10T17:26:54Z",
-      "updated_at": "2026-03-26T09:54:13Z",
+      "comments": 1,
+      "created_at": "2025-08-17T01:18:04Z",
+      "updated_at": "2026-05-07T21:05:10Z",
       "language": null
     },
     {
-      "org": "OpenAstronomy",
-      "github": "sunpy/sunpy",
-      "logo": "https://avatars.githubusercontent.com/sunpy",
-      "title": "Highlight new contributors better in release notes",
-      "url": "https://github.com/sunpy/sunpy/issues/7675",
-      "repo": "sunpy/sunpy",
+      "org": "Fortran-lang",
+      "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
+      "title": "Input() function",
+      "url": "https://github.com/fortran-lang/stdlib/issues/259",
+      "repo": "fortran-lang/stdlib",
       "labels": [
-        "Package Novice",
-        "Infrastructure",
-        "Good First Issue"
+        "enhancement",
+        "good first issue",
+        "topic: utilities",
+        "easy"
       ],
-      "comments": 3,
-      "created_at": "2024-06-14T12:38:03Z",
-      "updated_at": "2026-02-03T16:56:34Z",
+      "comments": 19,
+      "created_at": "2020-12-06T18:48:21Z",
+      "updated_at": "2026-04-22T17:55:59Z",
+      "language": null
+    },
+    {
+      "org": "Fortran-lang",
+      "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
+      "title": "Pretty printing of matrices (and multidimensional arrays)",
+      "url": "https://github.com/fortran-lang/stdlib/issues/40",
+      "repo": "fortran-lang/stdlib",
+      "labels": [
+        "good first issue",
+        "in progress",
+        "topic: utilities",
+        "easy"
+      ],
+      "comments": 8,
+      "created_at": "2019-12-22T19:47:12Z",
+      "updated_at": "2026-02-07T17:59:27Z",
+      "language": null
+    },
+    {
+      "org": "FreeCAD",
+      "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
+      "title": "Core/UI/UX: Search in \"Selection View\" Panel does not reset when clearing the search text.",
+      "url": "https://github.com/FreeCAD/FreeCAD/issues/30009",
+      "repo": "FreeCAD/FreeCAD",
+      "labels": [
+        "Type: Bug",
+        "Mod: Core",
+        "Topic: User Interface",
+        "Good first issue",
+        "Status: Confirmed"
+      ],
+      "comments": 2,
+      "created_at": "2026-05-09T22:15:21Z",
+      "updated_at": "2026-05-14T13:45:45Z",
+      "language": null
+    },
+    {
+      "org": "FreeCAD",
+      "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
+      "title": "Core - When creating a clone of a body inside a part, the new clone does not respect the active part.",
+      "url": "https://github.com/FreeCAD/FreeCAD/issues/30013",
+      "repo": "FreeCAD/FreeCAD",
+      "labels": [
+        "Type: Bug",
+        "Mod: Part",
+        "Good first issue",
+        "Status: Confirmed"
+      ],
+      "comments": 0,
+      "created_at": "2026-05-10T06:10:44Z",
+      "updated_at": "2026-05-11T10:49:59Z",
+      "language": null
+    },
+    {
+      "org": "FreeCAD",
+      "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
+      "title": "PartDesign: linked object hides objects during sketching",
+      "url": "https://github.com/FreeCAD/FreeCAD/issues/21884",
+      "repo": "FreeCAD/FreeCAD",
+      "labels": [
+        "Type: Bug",
+        "Topic: User Interface",
+        "Mod: Sketcher",
+        "Good first issue",
+        "Status: Confirmed",
+        "Topic: Preferences",
+        "Topic: Link"
+      ],
+      "comments": 9,
+      "created_at": "2025-06-09T00:55:10Z",
+      "updated_at": "2026-05-09T17:29:09Z",
+      "language": null
+    },
+    {
+      "org": "Gemini CLI",
+      "github": "google-gemini/gemini-cli",
+      "logo": "https://avatars.githubusercontent.com/google-gemini",
+      "title": "[Bug] Skills discovery fails when 'description' in SKILL.md frontmatter is a single line",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/25693",
+      "repo": "google-gemini/gemini-cli",
+      "labels": [
+        "priority/p2",
+        "area/extensions",
+        "status/bot-triaged",
+        "kind/bug",
+        "help wanted",
+        "good first issue",
+        "type/bug"
+      ],
+      "comments": 8,
+      "created_at": "2026-04-20T08:57:39Z",
+      "updated_at": "2026-05-15T09:18:54Z",
+      "language": null
+    },
+    {
+      "org": "Gemini CLI",
+      "github": "google-gemini/gemini-cli",
+      "logo": "https://avatars.githubusercontent.com/google-gemini",
+      "title": "Bug: 'text.response' in custom theme triggers validation error (unrecognized key)",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/25689",
+      "repo": "google-gemini/gemini-cli",
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "status/bot-triaged",
+        "kind/bug",
+        "help wanted",
+        "good first issue",
+        "type/bug"
+      ],
+      "comments": 4,
+      "created_at": "2026-04-20T08:25:37Z",
+      "updated_at": "2026-05-14T22:41:54Z",
+      "language": null
+    },
+    {
+      "org": "Gemini CLI",
+      "github": "google-gemini/gemini-cli",
+      "logo": "https://avatars.githubusercontent.com/google-gemini",
+      "title": "test(a2a-server): migrate process.env to vi.stubEnv() per GEMINI.md conventions",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/19826",
+      "repo": "google-gemini/gemini-cli",
+      "labels": [
+        "priority/p3",
+        "area/platform",
+        "Stale",
+        "kind/customer-issue",
+        "status/bot-triaged",
+        "kind/bug",
+        "help wanted",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2026-02-21T13:41:41Z",
+      "updated_at": "2026-05-11T00:22:19Z",
       "language": null
     },
     {
@@ -531,6 +778,39 @@
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
       "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
+      "title": "[Good First Issue] [RISCV64]: Implement CPU plugin just-in-time emitter for Swish operation",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/30247",
+      "repo": "openvinotoolkit/openvino",
+      "labels": [
+        "good first issue",
+        "category: CPU",
+        "platform: risc-v"
+      ],
+      "comments": 9,
+      "created_at": "2025-04-21T12:08:43Z",
+      "updated_at": "2026-05-15T16:05:46Z",
+      "language": null
+    },
+    {
+      "org": "OpenVINO Toolkit",
+      "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
+      "title": "[Good First Issue]: Support aten::set_",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29714",
+      "repo": "openvinotoolkit/openvino",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "comments": 19,
+      "created_at": "2025-03-25T12:12:33Z",
+      "updated_at": "2026-05-12T09:30:46Z",
+      "language": null
+    },
+    {
+      "org": "OpenVINO Toolkit",
+      "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
       "title": "[Good First Issue] [ARM] [Debug Caps] : Implement register prints in just-in-time Kernels",
       "url": "https://github.com/openvinotoolkit/openvino/issues/27715",
       "repo": "openvinotoolkit/openvino",
@@ -545,87 +825,55 @@
       "language": null
     },
     {
-      "org": "OpenVINO Toolkit",
-      "github": "openvinotoolkit/openvino",
-      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: Support aten::rrelu and aten::rrelu_ for pytorch models",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23746",
-      "repo": "openvinotoolkit/openvino",
-      "labels": [
-        "good first issue",
-        "category: PyTorch FE",
-        "no_stale"
-      ],
-      "comments": 22,
-      "created_at": "2024-03-28T11:22:44Z",
-      "updated_at": "2026-05-07T15:34:32Z",
-      "language": null
-    },
-    {
-      "org": "OpenVINO Toolkit",
-      "github": "openvinotoolkit/openvino",
-      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: Support aten::Delete aten::str aten::take",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/28707",
-      "repo": "openvinotoolkit/openvino",
-      "labels": [
-        "good first issue",
-        "category: PyTorch FE",
-        "no_stale"
-      ],
-      "comments": 15,
-      "created_at": "2025-01-27T23:12:04Z",
-      "updated_at": "2026-05-05T09:33:33Z",
-      "language": null
-    },
-    {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[BUG]: Blog page is not accessible via sidebar in mobile view",
-      "url": "https://github.com/oppia/oppia/issues/25094",
+      "title": "[BUG]: Mismatch between displayed time and real-time on Blog page",
+      "url": "https://github.com/oppia/oppia/issues/24787",
       "repo": "oppia/oppia",
       "labels": [
         "good first issue",
         "bug"
       ],
-      "comments": 4,
-      "created_at": "2026-02-26T14:50:07Z",
-      "updated_at": "2026-05-09T10:28:44Z",
+      "comments": 9,
+      "created_at": "2026-02-05T14:40:30Z",
+      "updated_at": "2026-05-15T18:24:10Z",
       "language": null
     },
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[Feature Request]: Enforce the strict type checks",
-      "url": "https://github.com/oppia/oppia/issues/23496",
+      "title": "[BUG]: Unnecessary circles shown in pagination component",
+      "url": "https://github.com/oppia/oppia/issues/24807",
       "repo": "oppia/oppia",
       "labels": [
         "frontend",
         "good first issue",
-        "enhancement",
-        "Hacktoberfest"
+        "bug"
       ],
-      "comments": 221,
-      "created_at": "2025-09-30T13:46:56Z",
-      "updated_at": "2026-05-08T18:20:56Z",
+      "comments": 16,
+      "created_at": "2026-02-06T20:51:22Z",
+      "updated_at": "2026-05-15T18:16:57Z",
       "language": null
     },
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[BUG]: Acceptance test re-run steps do not work due to server not being shut down",
-      "url": "https://github.com/oppia/oppia/issues/23830",
+      "title": "[BUG]: Suggestion editing state content doesn't exist for a given thread",
+      "url": "https://github.com/oppia/oppia/issues/17613",
       "repo": "oppia/oppia",
       "labels": [
+        "backend",
         "good first issue",
-        "bug"
+        "server errors",
+        "Impact: Medium",
+        "Work: Medium"
       ],
-      "comments": 69,
-      "created_at": "2025-11-10T13:24:25Z",
-      "updated_at": "2026-05-08T00:17:04Z",
+      "comments": 17,
+      "created_at": "2023-03-07T09:15:02Z",
+      "updated_at": "2026-05-15T06:47:27Z",
       "language": null
     },
     {
@@ -796,6 +1044,24 @@
       "org": "Rizin",
       "github": "rizinorg/rizin",
       "logo": "https://avatars.githubusercontent.com/rizinorg",
+      "title": "Add missing header (`iH`) information to some bin formats",
+      "url": "https://github.com/rizinorg/rizin/issues/5728",
+      "repo": "rizinorg/rizin",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "RzBin",
+        "test-required"
+      ],
+      "comments": 5,
+      "created_at": "2026-01-04T12:15:54Z",
+      "updated_at": "2026-05-12T19:15:05Z",
+      "language": null
+    },
+    {
+      "org": "Rizin",
+      "github": "rizinorg/rizin",
+      "logo": "https://avatars.githubusercontent.com/rizinorg",
       "title": "Horizontal histogram ruler - legend should be context-dependent",
       "url": "https://github.com/rizinorg/rizin/issues/5290",
       "repo": "rizinorg/rizin",
@@ -830,21 +1096,237 @@
       "language": null
     },
     {
-      "org": "Rizin",
-      "github": "rizinorg/rizin",
-      "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "Add missing header (`iH`) information to some bin formats",
-      "url": "https://github.com/rizinorg/rizin/issues/5728",
-      "repo": "rizinorg/rizin",
+      "org": "rocket.chat",
+      "github": "RocketChat/Rocket.Chat",
+      "logo": "https://avatars.githubusercontent.com/RocketChat",
+      "title": "Suggestion: Allow screen sharing, even when camera/mic not available",
+      "url": "https://github.com/RocketChat/Rocket.Chat/issues/1745",
+      "repo": "RocketChat/Rocket.Chat",
+      "labels": [
+        "type: improvement",
+        "triaged",
+        "good first issue"
+      ],
+      "comments": 11,
+      "created_at": "2015-12-23T17:16:59Z",
+      "updated_at": "2026-04-14T12:35:54Z",
+      "language": null
+    },
+    {
+      "org": "rocket.chat",
+      "github": "RocketChat/Rocket.Chat",
+      "logo": "https://avatars.githubusercontent.com/RocketChat",
+      "title": "Omnichannel transfer comment is not wrapped to multiple lines",
+      "url": "https://github.com/RocketChat/Rocket.Chat/issues/26723",
+      "repo": "RocketChat/Rocket.Chat",
+      "labels": [
+        "area: ui/ux",
+        "hacktoberfest",
+        "good first issue"
+      ],
+      "comments": 62,
+      "created_at": "2022-08-29T10:24:21Z",
+      "updated_at": "2026-04-01T17:30:42Z",
+      "language": null
+    },
+    {
+      "org": "rocket.chat",
+      "github": "RocketChat/Rocket.Chat",
+      "logo": "https://avatars.githubusercontent.com/RocketChat",
+      "title": "Settings for confirmation for using @all notification on messages",
+      "url": "https://github.com/RocketChat/Rocket.Chat/issues/909",
+      "repo": "RocketChat/Rocket.Chat",
+      "labels": [
+        "area: ui/ux",
+        "type: improvement",
+        "gsoc-project",
+        "triaged",
+        "good first issue"
+      ],
+      "comments": 21,
+      "created_at": "2015-09-26T17:31:38Z",
+      "updated_at": "2026-03-29T19:53:07Z",
+      "language": null
+    },
+    {
+      "org": "SageMath",
+      "github": "sagemath/sage",
+      "logo": "https://avatars.githubusercontent.com/sagemath",
+      "title": "[Meta] Add typing info",
+      "url": "https://github.com/sagemath/sage/issues/41722",
+      "repo": "sagemath/sage",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 11,
+      "created_at": "2026-02-27T15:47:13Z",
+      "updated_at": "2026-04-13T17:14:20Z",
+      "language": null
+    },
+    {
+      "org": "SageMath",
+      "github": "sagemath/sage",
+      "logo": "https://avatars.githubusercontent.com/sagemath",
+      "title": "_repr_short_ methods for rings and modules",
+      "url": "https://github.com/sagemath/sage/issues/33006",
+      "repo": "sagemath/sage",
+      "labels": [
+        "p: major / 3",
+        "t: enhancement",
+        "good first issue",
+        "t: refactoring"
+      ],
+      "comments": 3,
+      "created_at": "2021-12-09T21:37:50Z",
+      "updated_at": "2026-03-26T22:47:31Z",
+      "language": null
+    },
+    {
+      "org": "SageMath",
+      "github": "sagemath/sage",
+      "logo": "https://avatars.githubusercontent.com/sagemath",
+      "title": "Replace ad-hoc package installation instructions by links to SPKG page",
+      "url": "https://github.com/sagemath/sage/issues/37532",
+      "repo": "sagemath/sage",
+      "labels": [
+        "c: documentation",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2024-03-03T18:36:21Z",
+      "updated_at": "2026-02-24T18:14:07Z",
+      "language": null
+    },
+    {
+      "org": "St. Jude Children's Research Hospital",
+      "github": "stjudecloud/workflows",
+      "logo": "https://avatars.githubusercontent.com/stjudecloud",
+      "title": "tool wishlist",
+      "url": "https://github.com/stjudecloud/workflows/issues/228",
+      "repo": "stjudecloud/workflows",
       "labels": [
         "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "comments": 0,
+      "created_at": "2025-05-12T20:30:17Z",
+      "updated_at": "2025-07-28T14:56:22Z",
+      "language": null
+    },
+    {
+      "org": "stdlib",
+      "github": "stdlib-js/stdlib",
+      "logo": "https://avatars.githubusercontent.com/stdlib-js",
+      "title": "Fix JavaScript lint errors",
+      "url": "https://github.com/stdlib-js/stdlib/issues/12137",
+      "repo": "stdlib-js/stdlib",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 1,
+      "created_at": "2026-05-15T00:33:16Z",
+      "updated_at": "2026-05-15T00:33:24Z",
+      "language": null
+    },
+    {
+      "org": "stdlib",
+      "github": "stdlib-js/stdlib",
+      "logo": "https://avatars.githubusercontent.com/stdlib-js",
+      "title": "Fix JavaScript lint errors",
+      "url": "https://github.com/stdlib-js/stdlib/issues/11936",
+      "repo": "stdlib-js/stdlib",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 1,
+      "created_at": "2026-05-05T00:29:16Z",
+      "updated_at": "2026-05-05T00:29:22Z",
+      "language": null
+    },
+    {
+      "org": "stdlib",
+      "github": "stdlib-js/stdlib",
+      "logo": "https://avatars.githubusercontent.com/stdlib-js",
+      "title": "Fix TypeScript declarations lint errors",
+      "url": "https://github.com/stdlib-js/stdlib/issues/11896",
+      "repo": "stdlib-js/stdlib",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 2,
+      "created_at": "2026-05-03T00:35:19Z",
+      "updated_at": "2026-05-04T15:57:14Z",
+      "language": null
+    },
+    {
+      "org": "Stichting SU2",
+      "github": "su2code/SU2",
+      "logo": "https://avatars.githubusercontent.com/su2code",
+      "title": "Issues with compiling SU2 on Windows 10",
+      "url": "https://github.com/su2code/SU2/issues/1468",
+      "repo": "su2code/SU2",
+      "labels": [
+        "enhancement",
+        "documentation",
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2021-12-08T17:39:03Z",
+      "updated_at": "2026-01-02T10:36:25Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "TA grading panel view of PDF cannot view top of first page",
+      "url": "https://github.com/Submitty/Submitty/issues/12763",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "bug",
+        "TA Grading / TA UI",
         "good first issue",
-        "RzBin",
-        "test-required"
+        "URGENT / PRIORITY"
+      ],
+      "comments": 0,
+      "created_at": "2026-04-08T02:21:48Z",
+      "updated_at": "2026-04-16T20:27:11Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "Add link from Rainbow Grades to each Gradeable (w/ autograding or TA grading)",
+      "url": "https://github.com/Submitty/Submitty/issues/10433",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "enhancement / feature request",
+        "Rainbow Grades",
+        "good first issue"
+      ],
+      "comments": 2,
+      "created_at": "2024-05-13T21:01:21Z",
+      "updated_at": "2026-04-11T14:11:14Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "Enhance Forum Search Feature",
+      "url": "https://github.com/Submitty/Submitty/issues/12619",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "enhancement / feature request",
+        "good first issue",
+        "Discussion Forum / Live Chat",
+        "Awaiting Triage"
       ],
       "comments": 5,
-      "created_at": "2026-01-04T12:15:54Z",
-      "updated_at": "2026-05-06T09:05:03Z",
+      "created_at": "2026-03-21T19:36:38Z",
+      "updated_at": "2026-04-05T02:46:32Z",
       "language": null
     }
   ]
