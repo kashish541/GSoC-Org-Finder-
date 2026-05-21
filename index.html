@@ -4482,27 +4482,6 @@ if(org.ideas){
   // Wire up Recently Viewed clear button
   document.getElementById('clearRecentlyViewedBtn')?.addEventListener('click', clearRecentlyViewed);
 
-function openHelpModal() {
-  helpModal.classList.add('open');
-}
-
-function closeHelpModal() {
-  helpModal.classList.remove('open');
-}
-
-helpBtn.addEventListener('click', openHelpModal);
-
-document.addEventListener('keydown', (e) => {
-
-  if (e.key === '?') {
-    openHelpModal();
-  }
-
-  if (e.key === 'Escape') {
-    closeHelpModal();
-  }
-
-});
   // ══════════════════════════════════════════════
   // EXPORT  (added for issue #697)
   // ══════════════════════════════════════════════
